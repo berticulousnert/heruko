@@ -1,0 +1,8 @@
+{
+  "name": "test-node-16",
+  "description": "test node 16",
+  "version": "1.0.0",
+  "engines": {
+    "node": "16.x"
+  }
+}
